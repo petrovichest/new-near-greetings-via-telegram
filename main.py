@@ -1,3 +1,4 @@
+import time
 from pyrogram import Client
 
 
@@ -10,3 +11,4 @@ with app:
             print(chat_id.username, 'sended')
         except:
             pass
+        time.sleep(1)
