@@ -6,7 +6,7 @@ with app:
     chats = app.get_contacts()
     for chat_id in chats:
         try:
-            app.send_message(chat_id=chat_id.id, text='your text')
+            app.send_message(chat_id=chat_id.id, text='Happy New Year 🎅🎁🎉🎄🌟🍾🥂✨')
             print(chat_id.username, 'sended')
         except:
             pass
