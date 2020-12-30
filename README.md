@@ -1,4 +1,4 @@
-# new-near-greetings-via-telegram
+# new-year-greetings-via-telegram
 
 This script sends all your contacts in a telegram the text you need. In this case, the script is intended for sending Happy New Year greetings.
 
