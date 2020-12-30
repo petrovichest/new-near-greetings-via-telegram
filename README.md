@@ -1,5 +1,7 @@
 # new-near-greetings-via-telegram
 
+This script sends all your contacts in a telegram the text you need. In this case, the script is intended for sending Happy New Year greetings.
+
 1. First you need to install Pyrogram - 
 `pip install Pyrogram`
 
